@@ -8,4 +8,4 @@ A collection of open source slam tools
 
 
 
-[Some popular SLAM systems](https://kudan-2307.kxcdn.com/wp2015/wp-content/uploads/2017/01/different-types-of-visual-SLAM-systems-image009.png)
+![Some popular SLAM systems](https://kudan-2307.kxcdn.com/wp2015/wp-content/uploads/2017/01/different-types-of-visual-SLAM-systems-image009.png)
